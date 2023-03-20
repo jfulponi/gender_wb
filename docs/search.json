@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "report_old.html",
+    "href": "report_old.html",
+    "title": "Insights de género y movilidad",
+    "section": "",
+    "text": "En el presente informe, se presentará un análisis detallado de los patrones de movilidad en la ciudad de Buenos Aires, Argentina, durante los últimos cuatro años, tomando en cuenta la variable de género. La información presentada ha sido recopilada por la consultora Nommon, quien ha realizado estudios exhaustivos sobre la movilidad en la ciudad en años anteriores.\nEl objetivo principal de este informe es analizar cómo las diferencias de género influyen en los patrones de movilidad en Buenos Aires, tomando en cuenta factores como los medios de transporte más utilizados, las distancias recorridas y las zonas más transitadas.\nSe espera que los resultados de este estudio permitan a las autoridades y a los ciudadanos en general comprender mejor las necesidades y preferencias de movilidad de diferentes grupos de género, lo que podría contribuir a la creación de políticas públicas más inclusivas y equitativas."
+  },
+  {
+    "objectID": "report_old.html#procesamiento",
+    "href": "report_old.html#procesamiento",
+    "title": "Insights de género y movilidad",
+    "section": "Procesamiento",
+    "text": "Procesamiento\n\nHead de los datos\nEstructura\nProcesamiento ad-hoc"
+  },
+  {
+    "objectID": "report_old.html#desarrollo",
+    "href": "report_old.html#desarrollo",
+    "title": "Insights de género y movilidad",
+    "section": "Desarrollo",
+    "text": "Desarrollo\n\nFlujo de densidades de los viajes con mayor proporción de mujeres\n\n\n\n\n\n\n\nDistribución de destinos según la cantidad de mujeres que viajan cada región administrativa.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribución de los viajes según modo, género y jurisdicción.\n\n\n\n\n\n\n\n\n\nShare de modo de transporte por año de las mujeres.\nDía laborable, viaje basado en hogar-trabajo.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViajes según género y modo, por región.\nEn proporción, las mujeres utilizan más transporte público en CABA que en Provincia de Buenos Aires, siendo en esta última más fuerte la presencia del automóvil privado derivado de falta de infraestructura de transporte correspondiente.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiferencias temporales de distancias medias (en metros)"
+  },
+  {
+    "objectID": "report_old.html#conclusiones",
+    "href": "report_old.html#conclusiones",
+    "title": "Insights de género y movilidad",
+    "section": "Conclusiones",
+    "text": "Conclusiones"
+  },
+  {
+    "objectID": "report_old.html#referencias",
+    "href": "report_old.html#referencias",
+    "title": "Insights de género y movilidad",
+    "section": "Referencias",
+    "text": "Referencias"
+  }
+]
