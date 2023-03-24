@@ -2,36 +2,15 @@
   {
     "objectID": "report_old.html",
     "href": "report_old.html",
-    "title": "Insights de género y movilidad",
+    "title": "Gender and mobility insights",
     "section": "",
-    "text": "En el presente informe, se presentará un análisis detallado de los patrones de movilidad en la ciudad de Buenos Aires, Argentina, durante los últimos cuatro años, tomando en cuenta la variable de género. La información presentada ha sido recopilada por la consultora Nommon, quien ha realizado estudios exhaustivos sobre la movilidad en la ciudad en años anteriores.\nEl objetivo principal de este informe es analizar cómo las diferencias de género influyen en los patrones de movilidad en Buenos Aires, tomando en cuenta factores como los medios de transporte más utilizados, las distancias recorridas y las zonas más transitadas.\nSe espera que los resultados de este estudio permitan a las autoridades y a los ciudadanos en general comprender mejor las necesidades y preferencias de movilidad de diferentes grupos de género, lo que podría contribuir a la creación de políticas públicas más inclusivas y equitativas."
+    "text": "This report will present a detailed analysis of mobility patterns in the Metropolitan Region of Buenos Aires (RMBA), over the last four years, taking into account the gender variable. The information presented has been compiled by the consulting firm Nommon, which has conducted comprehensive studies on mobility in the city in previous years.\nThe main objective of this report is to analyze how gender differences influence mobility patterns in Buenos Aires, taking into account factors such as the most used means of transportation, the distances traveled and the most trafficked areas.\nIt is hoped that the results of this study will allow authorities and citizens in general to better understand the mobility needs and preferences of different gender groups, which could contribute to the creation of more inclusive and equitable public policies."
   },
   {
-    "objectID": "report_old.html#procesamiento",
-    "href": "report_old.html#procesamiento",
-    "title": "Insights de género y movilidad",
-    "section": "Procesamiento",
-    "text": "Procesamiento\n\nHead de los datos\nEstructura\nProcesamiento ad-hoc"
-  },
-  {
-    "objectID": "report_old.html#desarrollo",
-    "href": "report_old.html#desarrollo",
-    "title": "Insights de género y movilidad",
-    "section": "Desarrollo",
-    "text": "Desarrollo\n\nFlujo de densidades de los viajes en la RMBA\nMediante los algoritmos establecidos en la matriz origen y destino, se pueden conocer los flujos de viajes más frecuentes según género y modo utilizado. En este caso, a la izquierda se representan los viajes en magnitud de mayor proporción de mujeres y a la derecha los viajes con más propensión a ser realizados por hombres. Estos gráficos representan información del año 2021.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribución de grupos de distancias medias según el total por género\n\nhere goes text :) -\n\n\n\n\n\n\nDistribución de destinos según la cantidad de mujeres que viajan cada región administrativa.\nEn proporción, las mujeres utilizan más transporte público en la zona norte de la Región Metropolitana de Buenos Aires, siendo wn el resto de las áreas más fuerte la presencia del automóvil privado derivado de falta de infraestructura de transporte correspondiente.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribución de los viajes según modo, género y jurisdicción.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrips by mode, gender and year.\n\nc -\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrips by hour\n\n\n\n\n\n\nDiferencias temporales de distancias medias (en metros)"
-  },
-  {
-    "objectID": "report_old.html#conclusiones",
-    "href": "report_old.html#conclusiones",
-    "title": "Insights de género y movilidad",
-    "section": "Conclusiones",
-    "text": "Conclusiones"
-  },
-  {
-    "objectID": "report_old.html#referencias",
-    "href": "report_old.html#referencias",
-    "title": "Insights de género y movilidad",
-    "section": "Referencias",
-    "text": "Referencias"
+    "objectID": "report_old.html#main-text",
+    "href": "report_old.html#main-text",
+    "title": "Gender and mobility insights",
+    "section": "Main text",
+    "text": "Main text\n\nDensity flows across RMBA\nBy means of the algorithms established in the origin and destination matrix, the most frequent trip flows by gender and mode used can be determined. In this case, on the left are represented the trips with the highest proportion of women and on the right the trips with the highest propensity to be made by men. These graphs represent information for the year 2021.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMean distances groups distribution by gender (as share of total of each gender)\n\n\n\n\n\n\n\n\n\nDistribution of destinations according to the number of women who travel in each administrative region.\nIn proportion, women use more public transportation in the northern area of the Metropolitan Region of Buenos Aires, while in the rest of the areas the presence of private automobiles is stronger due to the lack of corresponding transportation infrastructure.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublic transit frequencies distribution across administrative regions\nAdjusted by area. This is a frecuency weighted sum of the transit lines that intersect with every administrative region, adjusted by area for comparability.\n\n\n\n\n\n\n\nDistribución de los viajes según modo, género y jurisdicción.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrips by mode, gender and year.\n\nc -\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrips by hour\n\n\n\n\n\n\n\n\n\n\nDifferences between mean distances for every year\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrips by purpose and gender"
   }
 ]
